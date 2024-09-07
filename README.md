@@ -42,3 +42,5 @@ We would like to thank [list contributors or inspirations] for their contributio
 
 
 Tendai Gadagah is one of the contributer we would like to thank
+
+It has been a pleasure working with this amazing team
